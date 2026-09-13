@@ -1,0 +1,7 @@
+aiogram
+transformers
+torch
+ddgs
+requests
+beautifulsoup4
+Flask
